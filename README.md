@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Ives Yuh
 - 🔭 Hoje trabalho no ramo Qualidade de Software !
-- 🌱 Estudando Delphi e Java !
+- 🌱 Estudando Delphi, RestAssured e Java !
 
 ##
 
