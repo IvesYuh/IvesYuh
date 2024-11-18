@@ -2,13 +2,6 @@
 - 🔭 Hoje trabalho no ramo Qualidade de Software !
 - 🌱 Estudando Delphi, RestAssured e Java !
 
-<div align="center">
-    <td><img src="https://github-readme-stats.vercel.app/api?username=IvesYuh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,004E64" alt="IvesYuh" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvesYuh&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,004E64" alt="IvesYuh" /></td>
-</div>
-
-
-
   <h3 align="center">Linguagens e Ferramentas 🛠️:
   <div style="display: inline_block" /*align="center"*/><br>
   <a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="HTML" height="35" width="35" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
