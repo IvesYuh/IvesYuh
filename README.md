@@ -1,6 +1,6 @@
 ## Olá, me chamo Ives Yuh !
 - 🔭 Hoje trabalho no ramo Qualidade de Software !
-- 🌱 Estudando Delphie e Java !
+- 🌱 Estudando Java, React, Typescript!
 - 🌱 Dominio Selenium, Rest Assured, Cucumber etc !
 
   <h3 align="center">Linguagens e Ferramentas 🛠️:
